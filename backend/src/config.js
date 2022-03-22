@@ -7,22 +7,26 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "YOUR COLLECTION NAME";
-const description = "Remember to replace this description";
+const namePrefix = "Souless Scrubs";
+const description = "This collection comprises of the non-valued people and artworks that nobody wants. After many scenarios and circumstances, they themselves became NFTs in hopes to find value. By buying or supporting them, they offer the people to join their community, while buyers will be offered exclusive content in these communities. They also offer exclusive rewards, to these buyers, relating to future projects and products, which is said in the roadmap from the website. They also don't plant to stay for long, or they will be materials forever. Knowing all this, all they want is to be valued, whether it be being bought or supported by the people. Therefore, these supporters will gain rewards, but some supporters (buyers especially) will be given more rewards than others.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 20,
     layersOrder: [
       { name: "Background" },
-      { name: "Eyeball" },
-      { name: "Eye color" },
-      { name: "Iris" },
-      { name: "Shine" },
-      { name: "Bottom lid" },
-      { name: "Top lid" },
+      { name: "Necks" },
+      { name: "Heads" },
+      { name: "Faces" }, 
+      { name: "Left Hands" },  
+      { name: "Right Hands" },  
+      { name: "Shirts" },
+      { name: "Bottoms" },
+      { name: "Belts" },
+      { name: "Chest" },
+      { name: "Shoes" },
     ],
   },
 ];
@@ -32,13 +36,13 @@ const shuffleLayerConfigurations = true;
 const debugLogs = false;
 
 const format = {
-  width: 512,
-  height: 512,
+  width: 2540,
+  height: 1905,
   smoothing: false,
 };
 
 const extraMetadata = {
-  external_url: "https://codecats.xyz", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://optimistic-colden-79616e.netlify.app/", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
