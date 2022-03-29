@@ -1,25 +1,25 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; //Replace with your own contract address
+const contractAddress = "0xf9B742575D09C36a1Aac9D6F211176410997a4Da"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Meeting the Souless Scrubs!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
-const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
+const welcome_p = 'The Souless Scrubs NFT Project is a decentralized, long-term, and charity-focused project that aims to spread awareness of orphans and their hardships through this NFT project and future ones to come. 20% profit from this project will be donated to the U!Happy institution while the rest is to fund future projects for a good cause. watch the <a href="https://vt.tiktok.com/ZSdYRh6S9/"  target="_blank" rel="noopener noreferrer">Souless Scrub Teaser Trailer</a>, I recommend it.';
+const h1_presale_coming_soon = "NFT Drop Coming Very Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
-const h1_public_mint = "Public Minting Open!!";
+const h1_public_mint = "Public Minting/Adoption Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
-const h2_presale_mint = "Public Minting Countdown";
-const p_presale_coming_soon = "We are working hard to launch the NFT Collection. Stay tuned for updates!";
+const h2_presale_mint = "Public Minting/Adoption Countdown";
+const p_presale_coming_soon = "The Scrubs are almost here. Stay tuned for updates!";
 const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
 const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
-const p_public_mint = "No whitelist needed. Public minting is now open! 🎉";
+const p_public_mint = "No whitelist available anymore. Public minting is now open! 🎉";
 const button_presale_coming_soon = "Get on the Whitelist";
-const button_presale_mint_whitelisted = "Mint Your Special NFT";
+const button_presale_mint_whitelisted = "Mint Your Special Scrub!";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
-const button_presale_already_minted = "Join The Community";
-const button_public_mint = "Mint Your NFT";
-const mint_failed = "Minting failed. 😢 Please try again.";
+const button_presale_already_minted = "Join The Community too";
+const button_public_mint = "Adopt your Scrub!";
+const mint_failed = "Minting failed. 😢 Please try again soon.";
 
 const abi = [
   {
