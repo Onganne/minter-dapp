@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Meeting the Ugly (probs valuable) Souless Scrubs!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Souless Scrubs NFT Project is a decentralized, long-term (check roadmap), and charity-focused project that aims to spread awareness of orphans and their hardships through this NFT project and future ones to come. 20% profit from this project will be donated to the U!Happy institution while the rest is to fund future projects for a good cause. watch the <a href="https://vt.tiktok.com/ZSdYRh6S9/"  target="_blank" rel="noopener noreferrer">Souless Scrub Teaser Trailer</a>, I recommend it.';
+const welcome_p = 'The Souless Scrubs NFT Project is a decentralized, long-term (check roadmap), and charity-focused project that aims to spread awareness of orphans and their hardships through this NFT project and future ones to come. 20% profit from this project will be donated to the U!Happy institution while the rest is to fund future projects for a good cause. Watch the <a href="https://vt.tiktok.com/ZSdYRh6S9/"  target="_blank" rel="noopener noreferrer">Souless Scrub Teaser Trailer</a> where I recommend it.';
 const h1_presale_coming_soon = "NFT Drop Coming Very Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting/Adoption Open!!";
