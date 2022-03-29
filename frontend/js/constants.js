@@ -1,19 +1,19 @@
-const contractAddress = "0x3961fEE8CD3b401c5F7bD20c1d9c2Fe5E8746067"; //Replace with your own contract address
+const contractAddress = "0x9CB093fc3e3827AE1D868Ede170D9E6639585512"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Meeting the Souless Scrubs!";
+const welcome_h1 = "Meeting the Ugly (probs valuable) Souless Scrubs!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The Souless Scrubs NFT Project is a decentralized, long-term, and charity-focused project that aims to spread awareness of orphans and their hardships through this NFT project and future ones to come. 20% profit from this project will be donated to the U!Happy institution while the rest is to fund future projects for a good cause. watch the <a href="https://vt.tiktok.com/ZSdYRh6S9/"  target="_blank" rel="noopener noreferrer">Souless Scrub Teaser Trailer</a>, I recommend it.';
+const welcome_p = 'The Souless Scrubs NFT Project is a decentralized, long-term (check roadmap), and charity-focused project that aims to spread awareness of orphans and their hardships through this NFT project and future ones to come. 20% profit from this project will be donated to the U!Happy institution while the rest is to fund future projects for a good cause. watch the <a href="https://vt.tiktok.com/ZSdYRh6S9/"  target="_blank" rel="noopener noreferrer">Souless Scrub Teaser Trailer</a>, I recommend it.';
 const h1_presale_coming_soon = "NFT Drop Coming Very Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting/Adoption Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
 const h2_presale_mint = "Public Minting/Adoption Countdown";
 const p_presale_coming_soon = "The Scrubs are almost here. Stay tuned for updates!";
-const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
-const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
+const p_presale_mint_not_whitelisted = "You are not whitelisted for the Adoption.. 😢";
+const p_presale_mint_whitelisted = "You're on the whitelist for the Adoption! 🎉";
 const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
-const p_public_mint = "No whitelist available anymore. Public minting is now open! 🎉";
+const p_public_mint = "No whitelist available anymore. Public minting/adoption is now live! 🎉";
 const button_presale_coming_soon = "Get on the Whitelist";
 const button_presale_mint_whitelisted = "Mint Your Special Scrub!";
 const button_presale_mint_not_whitelisted = "Get on the Whitelist";
